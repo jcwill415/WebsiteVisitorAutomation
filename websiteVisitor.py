@@ -1,6 +1,6 @@
 # Website Vistor Automation
-# This script will open up a website, keep it for 30 seconds
-# Then close that tab and open the next
+# This script will open up a website, wait 5 seconds
+# Then open a new tab with the next url in the list
 # After it loops through all the urls listed the process ends
 
 import webbrowser
